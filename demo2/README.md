@@ -10,7 +10,7 @@
     1). jquery包
         npm install --save jquery@1.12
     2). babel相关包
-        npm install --save-dev babel-loader babel-core babel-preset-env babel-preset-stage-2 babel-plugin-transform-runtime
+        npm install --save-dev babel-core babel-loader babel-preset-env babel-preset-stage-2 babel-plugin-transform-runtime
     3). 处理css文件的包
         npm install --save-dev css-loader style-loader
     4). 处理less文件的包
