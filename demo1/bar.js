@@ -1,5 +1,5 @@
 /*
-ES5的模块
+ES6的模块
  */
 export default function bar() {
   console.log('bar()')

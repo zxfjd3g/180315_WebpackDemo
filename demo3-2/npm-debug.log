@@ -10,8 +10,8 @@
 6 silly lifecycle webpackTest@1.0.0~predev: no script for predev, continuing
 7 info lifecycle webpackTest@1.0.0~dev: webpackTest@1.0.0
 8 verbose lifecycle webpackTest@1.0.0~dev: unsafe-perm in lifecycle true
-9 verbose lifecycle webpackTest@1.0.0~dev: PATH: D:\work\node\nodejs\node_modules\npm\bin\node-gyp-bin;D:\work\webpack\code\webpackDemo\demo3\node_modules\.bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\SlikSvn\bin;E:\cordova-package\jdk1.8-64\bin;%ANDROID-HOME%\platform-tools;%ANDROID-HOME%\tools;C:\Program Files\VisualSVN Server\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\TortoiseGit\bin;C:\WINDOWS\System32\OpenSSH\;D:\work\node\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\Fei\AppData\Local\Microsoft\WindowsApps;%GRADLE_HOME%\bin;C:\Users\Fei\AppData\Local\Programs\Python\Python35\Scripts;C:\Users\Fei\AppData\Local\Programs\Python\Python35;C:\Program Files\Microsoft VS Code\bin;D:\work\server\apache-tomcat-6.0.16\bin;D:\work\node\mongodb\bin;C:\Program Files\Java\jdk1.8.0_11\bin;C:\Users\Fei\AppData\Local\Android\Sdk\tools;C:\Users\Fei\AppData\Local\Android\Sdk\platform-tools;C:\Users\Fei\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Windows PowerShell;C:\Users\Fei\AppData\Roaming\npm;C:\Program Files\Git\cmd;
-10 verbose lifecycle webpackTest@1.0.0~dev: CWD: D:\work\webpack\code\webpackDemo\demo3
+9 verbose lifecycle webpackTest@1.0.0~dev: PATH: D:\work\node\nodejs\node_modules\npm\bin\node-gyp-bin;D:\work\webpack\code\webpackDemo\demo3-2\node_modules\.bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\SlikSvn\bin;E:\cordova-package\jdk1.8-64\bin;%ANDROID-HOME%\platform-tools;%ANDROID-HOME%\tools;C:\Program Files\VisualSVN Server\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\TortoiseGit\bin;C:\WINDOWS\System32\OpenSSH\;D:\work\node\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\Fei\AppData\Local\Microsoft\WindowsApps;%GRADLE_HOME%\bin;C:\Users\Fei\AppData\Local\Programs\Python\Python35\Scripts;C:\Users\Fei\AppData\Local\Programs\Python\Python35;C:\Program Files\Microsoft VS Code\bin;D:\work\server\apache-tomcat-6.0.16\bin;D:\work\node\mongodb\bin;C:\Program Files\Java\jdk1.8.0_11\bin;C:\Users\Fei\AppData\Local\Android\Sdk\tools;C:\Users\Fei\AppData\Local\Android\Sdk\platform-tools;C:\Users\Fei\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Windows PowerShell;C:\Users\Fei\AppData\Roaming\npm;C:\Program Files\Git\cmd;
+10 verbose lifecycle webpackTest@1.0.0~dev: CWD: D:\work\webpack\code\webpackDemo\demo3-2
 11 silly lifecycle webpackTest@1.0.0~dev: Args: [ '/d /s /c',
 11 silly lifecycle   'webpack-dev-server --config config/webpack.dev.conf.js --open' ]
 12 verbose stack Error: kill ENOSYS
@@ -23,7 +23,7 @@
 12 verbose stack     at processEmit (D:\work\node\nodejs\node_modules\npm\node_modules\npmlog\node_modules\gauge\node_modules\signal-exit\index.js:146:32)
 12 verbose stack     at processEmit (D:\work\node\nodejs\node_modules\npm\node_modules\npm-registry-client\node_modules\npmlog\node_modules\gauge\node_modules\signal-exit\index.js:146:32)
 12 verbose stack     at Signal.wrap.onsignal (internal/process.js:217:44)
-13 verbose cwd D:\work\webpack\code\webpackDemo\demo3
+13 verbose cwd D:\work\webpack\code\webpackDemo\demo3-2
 14 error Windows_NT 10.0.17134
 15 error argv "D:\\work\\node\\nodejs\\node.exe" "D:\\work\\node\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "run" "dev"
 16 error node v6.10.1

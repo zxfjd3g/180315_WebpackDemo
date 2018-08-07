@@ -27,5 +27,3 @@ $(function () {
   })
   $app.append($button)
 })
-
-new Object()
