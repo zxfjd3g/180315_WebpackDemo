@@ -36,7 +36,7 @@ module.exports = {
         test: /\.(jpg|png|svg|gif)$/,
         loader: 'url-loader',  // 包装扩展file-loader
         options: {
-          limit: 1024*400, // 进行图片base64编码处理的文件最大值
+          limit: 1024*40, // 进行图片base64编码处理的文件最大值
           name: 'static/img/[name].[hash:8].[ext]' // 生成的文件路径和文件名
         }
       }
